@@ -1,0 +1,21 @@
+@media screen and (max-width: 768px) { }
+
+nav a {
+    font-size: .75em;
+    color: black;
+}
+
+.nav-background {
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    height: 59px;
+    width: 100%;
+    top: 37px;
+    z-index: -1000;
+}
+
+nav .nav-item {
+    position: relative;
+    bottom: 6px;
+}
