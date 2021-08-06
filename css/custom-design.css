@@ -1,7 +1,9 @@
+* {
+    box-sizing: border-box;
+}
 body {
     background-color: #E6E6E6;
-    font-family: abel-regular;
-
+    font-family: 'Abel', sans-serif;
 
 }
 
@@ -32,16 +34,14 @@ h1, h2 {
 }
 
 .flex-container {
+    display: flex;
     background-color: #E6E6E6;
     justify-content: center;
-}
-
-.flex-container {
-    display: flex;
+    color: white;
+    font-family: 'Anton', sans-serif;
 
 }
-
-.flex-container > div {
+.circle {
     background-color: #f1f1f1;
     height: 100px;
     width: 100px;
@@ -50,8 +50,6 @@ h1, h2 {
     margin: 17px;
     border-radius: 50%;
 
-}
-.div {
-    text-color: #F0F0F0;
 
 }
+
