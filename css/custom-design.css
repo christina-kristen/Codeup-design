@@ -74,4 +74,13 @@ h3 {
 
 }
 
+.img-thumbnail {
+    display: flex;
 
+
+}
+
+.imgTxt {
+    display: flex;
+
+}
