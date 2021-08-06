@@ -62,22 +62,13 @@ h1, h2 {
     margin: auto;
     line-height: 5.5;
 }
-/*.flex-container > div {*/
-/*    background-color: #f1f1f1;*/
-/*    height: 100px;*/
-/*    width: 100px;*/
-/*    padding: 29px;*/
-/*    border: white 8px solid;*/
-/*    margin: 17px;*/
-/*    border-radius: 50%;*/
-
-/*}*/
 
 h3 {
     text-align: center;
     padding-top: 100px;
     padding-bottom: 50px;
 }
+
 .div {
     text-color: #F0F0F0;
 
