@@ -8,25 +8,25 @@ body {
 }
 
 
-    nav a {
-        font-size: .75em;
-        color: black;
-    }
+nav a {
+    font-size: .75em;
+    color: black;
+}
 
-    .nav-background {
-        position: absolute;
-        margin: 0;
-        padding: 0;
-        height: 59px;
-        width: 100%;
-        top: 37px;
-        z-index: -1000;
-    }
+.nav-background {
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    height: 59px;
+    width: 100%;
+    top: 37px;
+    z-index: -1000;
+}
 
-    nav .nav-item {
-        position: relative;
-        bottom: 6px;
-    }
+nav .nav-item {
+    position: relative;
+    bottom: 6px;
+}
 h1, h2 {
     font-family: 'Anton', sans-serif;
     text-align: center;
@@ -62,16 +62,7 @@ h1, h2 {
     margin: auto;
     line-height: 5.5;
 }
-/*.flex-container > div {*/
-/*    background-color: #f1f1f1;*/
-/*    height: 100px;*/
-/*    width: 100px;*/
-/*    padding: 29px;*/
-/*    border: white 8px solid;*/
-/*    margin: 17px;*/
-/*    border-radius: 50%;*/
 
-/*}*/
 
 h3 {
     text-align: center;
@@ -82,3 +73,5 @@ h3 {
     text-color: #F0F0F0;
 
 }
+
+
